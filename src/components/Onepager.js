@@ -133,9 +133,9 @@ class Onepager extends React.Component {
             name:'MANJUNATH',
             role:'CONTENT HEAD',
             social:{
-              facebook:'',
-              twitter:'',
-              google:'',
+              facebook:'www.facebook.com',
+              twitter:'www.twitter.com',
+              google:'www.google.com',
             }
           },
           {
@@ -143,9 +143,9 @@ class Onepager extends React.Component {
             name:'SASIKUMAR SRINIVASAN',
             role:'TECHICAL SPECILIST',
             social:{
-              facebook:'',
-              twitter:'',
-              google:'',
+              facebook:'www.facebook.com',
+              twitter:'www.twitter.com',
+              google:'www.google.com',
             }
           },
           {
@@ -153,9 +153,9 @@ class Onepager extends React.Component {
             name:'ANURAM M',
             role:'MARKETING HEAD',
             social:{
-              facebook:'',
-              twitter:'',
-              google:'',
+              facebook:'www.facebook.com',
+              twitter:'www.twitter.com',
+              google:'www.google.com',
             }
           }
         ]
@@ -267,8 +267,8 @@ class Onepager extends React.Component {
                     {/* home content */}
                     <div className="col-md-12 col-md-offset-1">
                       <div className="home-content">
-                        <h1 className="white-text">Digital Media</h1>
-                        <h1 className="white-text">& Marketing</h1>   
+                        <h1 className="white-text">Instaverse Digital Media & Marketing</h1>
+                        <h4 className="white-text">Marketing made simple, Reach out to the right people!</h4>   
                         <div className="row">
                           <div className="col-sm-6 text-lg-right text-center mb-3">
                             <a href="#contactform" className="btn bookdemo p-3">&nbsp;&nbsp;&nbsp;ENQUIRY&nbsp;&nbsp;</a>      
